@@ -1,6 +1,6 @@
 # Web-Development
 
-## Steps
+## How to Start?
 
 #### If you don't have git on your machine, [install](https://help.github.com/articles/set-up-git/) it.
 
