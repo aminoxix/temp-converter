@@ -1,14 +1,18 @@
 body {
-  margin: 0%;
+  margin: 7%;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
+body {
+  background-image: url("gify.gif");
+}
+
 header {
   width: auto;
   height: 4rem;
-  background-color: red;
+  background-color: cornflowerblue;
   margin: 0%;
   padding: 2rem;
 
